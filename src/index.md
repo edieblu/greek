@@ -1,12 +1,10 @@
 ---
 layout: home
-title: A simple starter kit for Eleventy
+title: My Greek Learning Journey
+metaTitle: My Greek Learning Journey
+metaDesc: ""
 postsHeading: Latest posts
 archiveButtonText: See all posts
-metaDesc: 'Hylia is a lightweight Eleventy starter kit to help you to create your own blog or personal website.'
-socialImage: ''
+socialImage: ""
 ---
-
-Hylia is a lightweight [Eleventy](https://11ty.io) starter kit with [Netlify CMS](https://www.netlifycms.org/) pre-configured, so that you can one-click install a progressive, accessible blog in minutes. It also gives you a well organised starting point to extend yourself. It’s by [Andy Bell](https://twitter.com/hankchizljaw) and [friends](https://github.com/aarongustafson/hylia/graphs/contributors).
-
-Get started now by [deploying Hylia to Netlify.](https://app.netlify.com/start/deploy?repository=https://github.com/hankchizljaw/hylia&stack=cms)
+I started learning Greek in January 2022 and am expected to be fully fluent by November 2022, when I'll be moving to Athens for work. So follow my language journey as I wrestle with Greek grammar and stumble over those long words with the hope of achieving some enlightenment on the way. It will for sure be quite a ride🎢.
