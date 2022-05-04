@@ -17,7 +17,7 @@ I'm sure that by then this much will be true:
 
 *I hadn't finished unpacking when I had to move again.*
 
-Today's lesson is how to form the past perfect, which is straightforward if you've mastered your verb ["to have"](https://helinika.com/2020/10/27/modern-greek-verb-to-have-conjugation/) in past tense ακα *αόριστος* (έχω / είχα) and the third person singular of all other verbs in the future :) 
+Today's lesson is how to form the past perfect, which is straightforward if you've mastered your verb ["to have"](https://helinika.com/2020/10/27/modern-greek-verb-to-have-conjugation/) in past tense ακα *αόριστος* (έχω / είχα) and the third person singular of all other verbs in the future 😅
 
 > Υπερσυντέλικος = είχα (είχες, είχε, [κτλ](https://en.wiktionary.org/wiki/%CE%BA%CF%84%CE%BB)) + απλός μέλλοντας (εσύ)
 
@@ -34,7 +34,7 @@ For example:
 
 Μέχρι χθες δεν είχα κουρευτεί για δύο χρόνια.
 
-*Until yesterday I hadn't cut my hair in two years* (maybe even longer, judging by the horrified look of the hairdresser)
+*Until yesterday I hadn't cut my hair in two years* (maybe even longer, judging by the horrified look of the hairdresser) 💇🏻‍♀️
 
 Είχα κάνει ένα φανταστικό ταξίδι στην Πορτογαλία πέρυσι και ήμουν πολύ ευχαριστημένη.
 
