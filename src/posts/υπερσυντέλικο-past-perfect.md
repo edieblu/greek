@@ -42,8 +42,18 @@ For example:
 
 
 
-If you think some of these sentences are unnecesary and you'd get along just fine with αόριστος, I wholeheartedly agree. But if you need to sit a B1-
+If you think some of these sentences are unnecesary and you'd get along just fine with αόριστος, I wholeheartedly agree. But if you need to sit a B1-B2 test (like [εμένα](https://www.greekpod101.com/blog/2020/08/24/greek-pronouns/)), then I hope these resources help and tips help.
 
-Here's my favourite online teacher explaining the past perfect. I highly recommend her videos, and she really does answer to questions in the comments. 
+Key words to look out for:
+
+* ήδη / already
+* κιολάς / already
+* ακόμη or ακόμα / even, still
+* Πριν από (χ χρόνια) / before x years
+* Όταν / when
+
+[This PDF ](https://www.greekgrammar.eu/pdffiles/pastperf.pdf)gives you the whole explanation, with thanks to the author who published it.
+
+And lastly, here's my favourite teacher explaining the past perfect. I highly recommend her videos, and she really does answer to questions in the comments. 
 
 \[<iframe width="560" height="315" src="https://www.youtube.com/embed/fuQEJ4B14Cw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>]
