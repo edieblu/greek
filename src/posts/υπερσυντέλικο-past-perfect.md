@@ -40,8 +40,6 @@ For example:
 
 *I had a fantastic trip to Portugal last year and I was very happy.* 
 
-
-
 If you think some of these sentences are unnecesary and you'd get along just fine with αόριστος, I wholeheartedly agree. But if you need to sit a B1-B2 test (like [εμένα](https://www.greekpod101.com/blog/2020/08/24/greek-pronouns/)), then I hope these resources help and tips help.
 
 Key words to look out for:
@@ -56,4 +54,4 @@ Key words to look out for:
 
 And lastly, here's my favourite teacher explaining the past perfect. I highly recommend her videos, and she really does answer to questions in the comments. 
 
-\[<iframe width="560" height="315" src="https://www.youtube.com/embed/fuQEJ4B14Cw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fuQEJ4B14Cw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
