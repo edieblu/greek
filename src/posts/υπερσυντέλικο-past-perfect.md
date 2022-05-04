@@ -17,8 +17,33 @@ I'm sure that by then this much will be true:
 
 *I hadn't finished unpacking when I had to move again.*
 
-Today's lesson is how to form the past perfect, which is straightforward if you've mastered your verb ["to have"](https://helinika.com/2020/10/27/modern-greek-verb-to-have-conjugation/) in past tense (έχω / είχα) and the third person singular of all other verbs in the future :) 
+Today's lesson is how to form the past perfect, which is straightforward if you've mastered your verb ["to have"](https://helinika.com/2020/10/27/modern-greek-verb-to-have-conjugation/) in past tense ακα *αόριστος* (έχω / είχα) and the third person singular of all other verbs in the future :) 
+
+> Υπερσυντέλικος = είχα (είχες, είχε, [κτλ](https://en.wiktionary.org/wiki/%CE%BA%CF%84%CE%BB)) + απλός μέλλοντας (εσύ)
+
+Like in English, we use the υπερσυντέλικος to denote an action that has happened in the past (usually a long time ago):
+
+* before another action happened, or / πριν από μια άλλη πράξη ή
+* before a particular or specified moment in time / πριν από κάποια συγκεκριμένη χρονική στιγμή που λέγεται ή που εννοείται
+
+For example:
+
+Όταν φτάσαμε στις Βρυξέλλες, όλα τα καταστήματα είχαν κλείσει.
+
+*When we arrived to Brussels, all the shops had closed.* (It was a Sunday, it happens, you need to live it to believe it) 
+
+Μέχρι χθες δεν είχα κουρευτεί για δύο χρόνια.
+
+*Until yesterday I hadn't cut my hair in two years* (maybe even longer, judging by the horrified look of the hairdresser)
+
+Είχα κάνει ένα φανταστικό ταξίδι στην Πορτογαλία πέρυσι και ήμουν πολύ ευχαριστημένη.
+
+*I had a fantastic trip to Portugal last year and I was very happy.* 
+
+
+
+If you think some of these sentences are unnecesary and you'd get along just fine with αόριστος, I wholeheartedly agree. But if you need to sit a B1-
 
 Here's my favourite online teacher explaining the past perfect. I highly recommend her videos, and she really does answer to questions in the comments. 
 
-[<iframe width="560" height="315" src="https://www.youtube.com/embed/fuQEJ4B14Cw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>](<<iframe width="560" height="315" src="https://www.youtube.com/embed/fuQEJ4B14Cw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>>)
+\[<iframe width="560" height="315" src="https://www.youtube.com/embed/fuQEJ4B14Cw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>]
