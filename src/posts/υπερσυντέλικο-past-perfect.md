@@ -13,7 +13,7 @@ I don't feel inclined to unpack, given that the true adventure (not that living 
 
 I'm sure that by then this much will be true:
 
-> Δεν είχα τελειώσει το ξεπακετάρισμα όταν έπρεπε να μετακομίσω ξανά.
+> Δεν είχα τελειώσει το ξεπακετάρισμα όταν έπρεπε να μετακομίσω ξανά. 📦
 
 *I hadn't finished unpacking when I had to move again.*
 
@@ -36,7 +36,7 @@ For example:
 
 *Until yesterday I hadn't cut my hair in two years* (maybe even longer, judging by the horrified look of the hairdresser) 💇🏻‍♀️
 
-Είχα κάνει ένα φανταστικό ταξίδι στην Πορτογαλία πέρυσι και ήμουν πολύ ευχαριστημένη.
+Είχα κάνει ένα φανταστικό ταξίδι στην Πορτογαλία πέρυσι και ήμουν πολύ ευχαριστημένη. 🏄🏻‍♀️
 
 *I had a fantastic trip to Portugal last year and I was very happy.* 
 
