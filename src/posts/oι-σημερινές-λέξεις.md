@@ -19,6 +19,8 @@ tags:
 
 
 
+https://en.wiktionary.org/wiki/%CE%B1%CF%80%CE%BF%CF%84%CE%AD%CE%BB%CE%B5%CF%83%CE%BC%CE%B1#Greek
+
 Ανακτήθηκε από 
 Κομμάτια
 αποδόσεις
@@ -29,7 +31,7 @@ tags:
 Παράδειγμα
 σημερινές λέξεις
 
-temper
+temper?
 οριστική
 
 επικοινωνία 
@@ -57,3 +59,13 @@ temper
 Άπλωσε το χέρι της και τον αγκάλιασε.\
 Τον τράβηξε περισσότερο 
 Έφυγε από το σπίτι της την αυγή
+
+
+
+https://www.patreon.com/easygreek/posts?filters\[search_query]=%CE%B7%20%CF%84%CF%8D%CF%87%CE%B7
+
+https://www.youtube.com/channel/UCq1cHTQko_diWLd2LnuZZ_A/videos
+
+
+
+https://www.patreon.com/posts/82-kante-lathe-70050086
