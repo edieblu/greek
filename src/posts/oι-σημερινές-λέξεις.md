@@ -69,3 +69,9 @@ https://www.youtube.com/channel/UCq1cHTQko_diWLd2LnuZZ_A/videos
 
 
 https://www.patreon.com/posts/82-kante-lathe-70050086
+
+
+
+https://www.janus.gr/2020/03/true-crime.html
+
+https://blog.psichogios.gr/poio-crime-biblio-prepei-na-diabaseis-ayto-to-kalokairi/
